@@ -1,7 +1,5 @@
 --[[
-    🍪 OREO HUB - Full Script
-    Owner: longne12345666 | Dev: Sobi
-    Discord: https://discord.gg/HMfsMcUWH2
+# long 
 ]]
 
 if not game:IsLoaded() then game.Loaded:Wait() end
